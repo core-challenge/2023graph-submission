@@ -12,3 +12,8 @@
      - `description/main.tex` can be compiled using `latexmk` (You can check the compiled PDF via the `Description` in the `Artifacts` as shown below).
 
        ![Description](figs/artifacts.png)
+
+## ToDo at the Submission
+
+  1. please fill in and send your information through [this Google form](https://forms.gle/CGYfrksJASwGUpWYA).
+  2. submit your private Github repository by adding `TakehideSoh` and `tom-tan` as members.
